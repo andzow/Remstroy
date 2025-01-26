@@ -6,7 +6,6 @@
                 <h2 class="footer__logo">Рем<span class="footer__span">строй</span></h2>
                 <p class="footer__text">ИНН 434588967285</p>
                 <p class="footer__text">ИП Соболев К. С.</p>
-                <p class="footer__text">442304, Пензенская область, Городищенский р-н, п. Затон, ул. Горная, д. 2</p>
             </div>
             <div class="footer__item footer__item_center">
                 <p class="footer__text footer__app" @click="scrollToAnchor('main')">Главная</p>
